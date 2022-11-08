@@ -6239,6 +6239,10 @@ textarea.form-control-lg {
   border-width: 0.2em;
 }
 
+#logotipo {
+  width: 12vh;
+}
+
 /* Produtos */
 
 /* #motorOnix {
